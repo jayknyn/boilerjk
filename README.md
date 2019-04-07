@@ -1,2 +1,2 @@
-# newsapp
-A news app for android and iOS built with React Native, Node, NewsAPI.org
+# JK Boiler Plate
+A project boiler plate with Node, React, Axios, Express, Webpack, Babel
